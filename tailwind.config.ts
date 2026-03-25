@@ -33,7 +33,7 @@ const config: Config = {
 
 				// Shop primary green – used for buttons, badges, highlights across all pages
 				shop: {
-					DEFAULT: "#3DBD7F",
+					DEFAULT: "#3498DB",
 					dark: "#2ea86f",
 					light: "#e8f7f0",
 				},
