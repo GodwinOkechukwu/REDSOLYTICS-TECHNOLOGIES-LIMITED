@@ -70,7 +70,7 @@ const page = () => {
 			<MachineMaintenance />
 
 			{/* Features bar */}
-			<section className='bg-white border-t border-b border-gray-200'>
+			{/* <section className='bg-white border-t border-b border-gray-200'>
 				<div className='max-w-[1440px] mx-auto px-4 sm:px-8 py-6 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-6'>
 					{featuresData.map((f, i) => (
 						<div key={i} className='flex items-center gap-3'>
@@ -88,13 +88,12 @@ const page = () => {
 				</div>
 			</section>
 
-			{/* FAQ section */}
 			<section className='flex w-full flex-col items-center pt-16 slg:px-16 text-center bg-white'>
 				<h3 className='font-semibold text-xl sm:text-2xl slg:text-4xl tracking-tighter'>
 					Frequently Asked
 				</h3>
 				<FaqAccordion />
-			</section>
+			</section> */}
 
 			<AppMenu />
 		</AppLayout>
